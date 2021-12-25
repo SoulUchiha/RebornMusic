@@ -1,0 +1,35 @@
+
+
+{
+  "YOUTUBE_API_KEY": "AIzaSyBh3IuBJGuNTYp70xeMSUpOBMmW2S5gFSA",
+
+
+  "EMOJI_ARROW": "",
+  "EMOJI_DONE": "✅",
+  "EMOJI_ERROR": "⛔",
+  "EMOJI_STARTED_PLAYING": "✅",
+  "EMOJI_LINE":"<a:line:850276939294048256>",
+
+
+  "BOT_ID": "",
+  "BOT_OWNER_ID": "", 
+  "SERVER_INVITE": "https://discord.gg/96B9MHKx", 
+
+  "PREFIX": "@", 
+  "BOT_PREFIX": "@",
+
+
+  "BOT_STATUS2":"@help",
+  "BOT_STATUS3": "To High Quality Music",//
+  
+  "BOT_PRESENCE" : "LISTENING",
+
+  "SOUNDCLOUD_CLIENT_ID": "",
+  "MAX_PLAYLIST_SIZE": 900,
+  "PRUNING": true,
+  "STAY_TIME": 563430,
+  "DEFAULT_VOLUME": 100
+}
+
+
+     
